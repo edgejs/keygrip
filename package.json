@@ -1,5 +1,5 @@
 {
-  "name": "keygrip",
+  "name": "@edge-js/keygrip",
   "version": "1.1.0",
   "description": "Key signing and verification for rotated credentials",
   "license": "MIT",
